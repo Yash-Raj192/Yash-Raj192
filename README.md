@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/yashr3071/?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/yashr3071?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
