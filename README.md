@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Raj</h1>
+<h1 align="center">Hi 👋, I'm Yash Raj Singh</h1>
 <h3 align="center">Aspiring Data Analyst | Data Visualization & Dashboard Developer</h3>
 
 <p align="center">
@@ -62,10 +62,8 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/yashr3071/?theme=dark&font=Karma&ext=heatmap" />
 </p>
-
-> 🔹 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode username.
 
 ---
 
@@ -83,7 +81,7 @@
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://yash-raj-singh-portfolio.lovable.app  
-- 📧 Email: your-email@example.com  
+- 📧 Email: yashexplorer3071@gmail.com
 
 ---
 
