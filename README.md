@@ -80,8 +80,8 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://yash-raj-singh-portfolio.lovable.app  
-- 📧 Email: yashexplorer3071@gmail.com
+- 🌐 Portfolio: https://yashrajsingh-portfolio.vercel.app 
+- 📧 Email: yashr3071@gmail.com
 
 ---
 
