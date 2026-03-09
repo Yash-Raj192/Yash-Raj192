@@ -80,7 +80,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://yashrajsingh-portfolio.vercel.app 
+- 🌐 Portfolio: [https://yashrajsingh-portfolio.vercel.app ](https://yashrajsingh-portfolio.vercel.app)
 - 📧 Email: yashr3071@gmail.com
 
 ---
